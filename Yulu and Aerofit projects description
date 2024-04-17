@@ -1,0 +1,38 @@
+**About Aerofit:**
+ Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range
+ including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to
+ cater to the needs of all categories of people.
+
+**Business problem:**
+The market research team at AeroFit wants to identify the characteristics of the target audience
+for each type of treadmill offered by the company, to provide a better recommendation of the
+treadmills to the new customers. The team decides to investigate whether there are differences
+across the product with respect to customer characteristics.
+
+Perform descriptive analytics to create a customer profile for each AeroFit treadmill product by
+developing appropriate tables and charts. For each AeroFit treadmill product, construct two
+way contingency tables and compute all conditional and marginal probabilities along with their
+insights/impact on the business.
+
+
+** About Yulu**
+ Yulu is India’s leading micro-mobility service provider, which offers unique vehicles for the daily
+ commute. Starting off as a mission to eliminate traffic congestion in India, Yulu provides the
+ safest commute solution through a user-friendly mobile app to enable shared, solo and sustainable
+ commuting.
+ Yulu zones are located at all the appropriate locations (including metro stations, bus stands, office
+ spaces, residential areas, corporate offices, etc) to make those first and last miles smooth, affordable,
+ and convenient. Yulu has recently suffered considerable dips in its revenues. They have contracted a consulting
+ company to understand the factors on which the demand for these shared electric cycles depends.
+ Specifically, they want to understand the factors affecting the demand for these shared electric
+ cycles in the Indian market.
+
+**Business problem:**
+The company wants to know:
+Which variables are significant in predicting the demand for shared electric cycles in the Indian
+market? How well those variables describe the electric cycle demands.
+
+ 
+ 
+
+
